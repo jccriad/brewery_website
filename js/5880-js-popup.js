@@ -5,7 +5,7 @@ document.addEventListener('onPopupClose', function(e) {
 });
 
 function popup1() {
-    CreativaPopup.create('Feel free to DM me! Loyd Abi#8569 &#10084', 'Discord');
+    CreativaPopup.create('Feel free to DM me! riad2rich &#10084', 'Discord');
 }
 
 function popup2() {
@@ -82,7 +82,7 @@ function popup12() {
 }
 
 function popup13() {
-    CreativaPopup.create('Feel free to DM me <font class="contactding" onclick="allahm109kd(); allahm109kd2();" color="#FF0000">Loyd Abi#8569</font> &#10084<br> <font style="color: #696969; font-size: smaller;"> or join my discord server <a href="https://discord.gg/xUbSVehW" style="color: #ADD8E6;">https://discord.gg/xUbSVehW</a> </font>', 'Discord', '', {
+    CreativaPopup.create('Feel free to DM me <font class="contactding" onclick="allahm109kd(); allahm109kd2();" color="#FF0000">riad2rich</font> &#10084<br> <font style="color: #696969; font-size: smaller;"> or join my discord server <a href="https://discord.gg/c6RZntbAwJ" style="color: #ADD8E6;">https://discord.gg/c6RZntbAwJ</a> </font>', 'Discord', '', {
         titleColor: '#6ffcff',
         textColor: '#b0b0b0'
     });
@@ -90,14 +90,14 @@ function popup13() {
 }
 
 function allahm109kd() {
-    navigator.clipboard.writeText("Loyd Abi#8569");
+    navigator.clipboard.writeText("riad2rich");
     setTimeout(function() {
         alert("Discord username was copied to the clipboard");
     }, 50);
 }
 
 function allahm109kd1() {
-    navigator.clipboard.writeText("Loyd Abi#8569");
+    navigator.clipboard.writeText("riad2rich");
     setTimeout(function() {
         alert("Discord username was copied to the clipboard");
     }, 50);
